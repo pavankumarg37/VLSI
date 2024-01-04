@@ -1,2 +1,1 @@
-# VLSI
-This repository is all about VLSI and Verification concepts.
+This repository is all about VLSI and Verification related concepts.
